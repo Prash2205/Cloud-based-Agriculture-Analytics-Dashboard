@@ -1,6 +1,9 @@
 # Cloud-based Agriculture Analytics Dashboard
 An end-to-end cloud analytics project integrating AWS, Snowflake, and Power BI to analyze the impact of climate factors (rainfall, temperature, humidity) on agricultural yield.
 
+## Dashboard Link
+https://app.powerbi.com/groups/me/reports/d23e9636-76fe-40d5-a0bc-3c442dc2e604/73dfaf0ce1d8c2328a90?experience=power-bi
+
 ## Project Overview
 * Raw agricultural & climate data is stored securely in AWS S3
 * Data is ingested, transformed, and modeled in Snowflake
